@@ -1,0 +1,75 @@
+[main] DEBUG hometask.HomeTask  - error
+[main] INFO  hometask.HomeTask  - hi
+[main] DEBUG hometask.HomeTask  - error
+[main] INFO  hometask.HomeTask  - hi
+[main] ERROR hometask.HomeTask  - Error
+[main] FATAL hometask.HomeTask  - fatalerreor
+[main] WARN  hometask.HomeTask  - warning
+[main] DEBUG hometask.HomeTask  - error
+[main] INFO  hometask.HomeTask  - hi
+[main] ERROR hometask.HomeTask  - Error
+[main] FATAL hometask.HomeTask  - fatalerreor
+[main] WARN  hometask.HomeTask  - warning
+[main] DEBUG hometask.HomeTask  - error
+[main] INFO  hometask.HomeTask  - hi
+[main] ERROR hometask.HomeTask  - Error
+[main] FATAL hometask.HomeTask  - fatalerreor
+[main] WARN  hometask.HomeTask  - warning
+[main] INFO  hometask.HomeTask  - 23
+[main] INFO  hometask.InterestEvaluation  - Enter the principal amount :
+[main] INFO  hometask.InterestEvaluation  - Enter the time period :
+[main] INFO  hometask.InterestEvaluation  - Enter the rate of interest per annum :
+[main] INFO  hometask.InterestEvaluation  - Simple Interest :126.0
+[main] INFO  hometask.InterestEvaluation  - Compound Interest :129.81780000000003
+[main] INFO  hometask.InterestEvaluation  - -------------------------------------
+[main] INFO  hometask.ConstructionCostEstimation  - CONSTRUCTION COST ESTIMATION
+[main] INFO  hometask.ConstructionCostEstimation  - Variants Available
+[main] INFO  hometask.ConstructionCostEstimation  - 1. Construction with standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 2. Construction with above standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 3. Construction with high standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 4. Construction with high standard materials and fully automated
+[main] INFO  hometask.ConstructionCostEstimation  - Enter your choice (1-4): 
+[main] INFO  hometask.ConstructionCostEstimation  - Enter the area of house: 
+[main] INFO  hometask.ConstructionCostEstimation  - Cost =2500000.0 INR
+[main] INFO  hometask.InterestEvaluation  - Enter the principal amount :
+[main] ERROR hometask.InterestEvaluation  - Enter a valid input ... 
+[main] INFO  hometask.InterestEvaluation  - -------------------------------------
+[main] INFO  hometask.ConstructionCostEstimation  - CONSTRUCTION COST ESTIMATION
+[main] INFO  hometask.ConstructionCostEstimation  - Variants Available
+[main] INFO  hometask.ConstructionCostEstimation  - 1. Construction with standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 2. Construction with above standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 3. Construction with high standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 4. Construction with high standard materials and fully automated
+[main] INFO  hometask.ConstructionCostEstimation  - Enter your choice (1-4): 
+[main] ERROR hometask.ConstructionCostEstimation  - Enter a valid input ... 
+[main] INFO  hometask.HomeTask  - This is main...
+[main] INFO  hometask.InterestEvaluation  - Enter the principal amount :
+[main] INFO  hometask.InterestEvaluation  - Enter the time period :
+[main] INFO  hometask.InterestEvaluation  - Enter the rate of interest per annum :
+[main] INFO  hometask.InterestEvaluation  - Simple Interest :40.4
+[main] INFO  hometask.InterestEvaluation  - Compound Interest :40.60199999999986
+[main] INFO  hometask.InterestEvaluation  - -------------------------------------
+[main] INFO  hometask.ConstructionCostEstimation  - CONSTRUCTION COST ESTIMATION
+[main] INFO  hometask.ConstructionCostEstimation  - Variants Available
+[main] INFO  hometask.ConstructionCostEstimation  - 1. Construction with standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 2. Construction with above standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 3. Construction with high standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 4. Construction with high standard materials and fully automated
+[main] INFO  hometask.ConstructionCostEstimation  - Enter your choice (1-4): 
+[main] INFO  hometask.ConstructionCostEstimation  - Enter the area of house: 
+[main] INFO  hometask.ConstructionCostEstimation  - Cost =1200.0 INR
+[main] INFO  hometask.InterestEvaluation  - Enter the principal amount :
+[main] INFO  hometask.InterestEvaluation  - Enter the time period :
+[main] INFO  hometask.InterestEvaluation  - Enter the rate of interest per annum :
+[main] INFO  hometask.InterestEvaluation  - Simple Interest :0.96
+[main] INFO  hometask.InterestEvaluation  - Compound Interest :0.9695999999999998
+[main] INFO  hometask.InterestEvaluation  - -------------------------------------
+[main] INFO  hometask.ConstructionCostEstimation  - CONSTRUCTION COST ESTIMATION
+[main] INFO  hometask.ConstructionCostEstimation  - Variants Available
+[main] INFO  hometask.ConstructionCostEstimation  - 1. Construction with standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 2. Construction with above standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 3. Construction with high standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 4. Construction with high standard materials and fully automated
+[main] INFO  hometask.ConstructionCostEstimation  - Enter your choice (1-4): 
+[main] INFO  hometask.ConstructionCostEstimation  - Enter the area of house: 
+[main] INFO  hometask.ConstructionCostEstimation  - Cost =1500.0 INR
